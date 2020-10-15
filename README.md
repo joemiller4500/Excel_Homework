@@ -1,2 +1,2 @@
 # Excel_Homework
-Week 1 homework for excel.
+Code showing ability in Excel.
